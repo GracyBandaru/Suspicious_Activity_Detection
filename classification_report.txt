@@ -1,0 +1,19 @@
+               precision    recall  f1-score   support
+
+        Abuse       0.98      0.97      0.97       263
+       Arrest       0.97      0.96      0.96       144
+        Arson       1.00      0.95      0.97       146
+      Assault       0.97      0.97      0.97       155
+     Burglary       0.99      0.99      0.99       306
+    Explosion       0.96      0.97      0.97       147
+     Fighting       1.00      0.86      0.92        49
+RoadAccidents       0.97      0.99      0.98       529
+      Robbery       0.98      0.99      0.99       651
+     Shooting       0.94      0.94      0.94       175
+  Shoplifting       0.99      1.00      1.00       180
+     Stealing       0.99      0.99      0.99       393
+    Vandalism       0.98      0.99      0.99       190
+
+     accuracy                           0.98      3328
+    macro avg       0.98      0.97      0.97      3328
+ weighted avg       0.98      0.98      0.98      3328
