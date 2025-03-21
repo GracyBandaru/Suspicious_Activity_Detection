@@ -116,12 +116,7 @@ model = Sequential([
 ## Results
 - **Accuracy**: 97% on the test set.
 
-**Model Accuracy and Loss:**
-![Model Accuracy and Loss](Model_accuarcy.png)
 
-
-**Confusion Matrix:**
-![Confusion Matrix](https://raw.githubusercontent.com/GracyBandaru/Suspicious_Activity_Detection/main/confusion_matrix.png)
 
 **ROC Curve:**
 ![ROC Curve](https://raw.githubusercontent.com/GracyBandaru/Suspicious_Activity_Detection/main/roc_curve.png)
