@@ -114,7 +114,10 @@ model = Sequential([
 ---
 
 ## Results
-- **Accuracy**: XX% on the test set.
+- **Accuracy**: 97% on the test set.
+
+**Model Accuracy and Loss:**
+![Model Accuracy and Loss](Model_accuarcy.png)
 
 **Confusion Matrix:**
 ![Confusion Matrix](confusion_matrix.png)
