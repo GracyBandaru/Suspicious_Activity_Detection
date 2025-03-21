@@ -119,11 +119,13 @@ model = Sequential([
 **Model Accuracy and Loss:**
 ![Model Accuracy and Loss](Model_accuarcy.png)
 
+
 **Confusion Matrix:**
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/GracyBandaru/Suspicious_Activity_Detection/main/confusion_matrix.png)
 
 **ROC Curve:**
-![ROC Curve](roc_curve.png)
+![ROC Curve](https://raw.githubusercontent.com/GracyBandaru/Suspicious_Activity_Detection/main/roc_curve.png)
+
 
 ---
 
